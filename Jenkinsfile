@@ -38,5 +38,6 @@ pipeline {
                     echo 'Deployment failed.'
                 }
             }
+        }
     }
 }
